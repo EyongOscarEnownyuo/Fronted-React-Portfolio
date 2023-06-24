@@ -40,7 +40,7 @@ function About() {
               <small>Over 18,000 done projects</small>
             </article>
           </div>
-          <p>Building the future, one line of code at a time - Takem Jim Level 300 Software Engineering Student.</p>
+          <p>Building the future, one line of code at a time - Eyong Oscar Level 300 Software Engineering Student.</p>
         <a href='#contact' className='btn btn-primary'> let's talk</a>
         </div>
       </div>

@@ -24,14 +24,14 @@ function Contact() {
           <article className="contact__option">
             <MdOutlineMailOutline className='contact__option-icon'/>
             <h4>Email</h4>
-            <h5>takemjim43@gmail.com</h5>
-            <a href='mailto:takemjim43@gmail.com'>Send a message </a>
+            <h5>eyongoscar0@gmail.com</h5>
+            <a href='mailto:eyongoscar0@gmail.com'>Send a message </a>
           </article>
           <article className="contact__option">
             <BsWhatsapp className='contact__option-icon'/>
             <h4>whatsapp</h4>
-            <h5>+237654812052</h5>
-            <a href='https://wa.me/+237654812052'>Send a message </a>
+            <h5>+237677911519</h5>
+            <a href='https://wa.me/+237677911519'>Send a message </a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>

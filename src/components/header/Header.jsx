@@ -15,7 +15,7 @@ function Header() {
       <div  className='container header__container particles-overlay'>
       <h5>hello i'm
       </h5>
-      <h1>JIM</h1>
+      <h1>OSCAR</h1>
       <h5 className='text-light'>Fullstack Developer</h5>
       <CTA/>
       <Headersocilas/>
